@@ -1,0 +1,1272 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: BC Business Consulting\n"
+"POT-Creation-Date: 2021-06-05 13:48+0600\n"
+"PO-Revision-Date: 2021-06-05 13:48+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "Oooops!"
+msgstr ""
+
+#: 404.php:22 vendors/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:26
+msgid "Back to home"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:76
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:81
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:87
+msgid "Website"
+msgstr ""
+
+#: comments.php:92
+msgid "Comment"
+msgstr ""
+
+#: comments.php:102
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:110
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:115
+msgid "Your email address will not be published."
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/custom-header.php:34
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/customizer/core/default.php:34
+msgid "Copyright All right reserved"
+msgstr ""
+
+#: inc/customizer/core/default.php:38
+msgid "Your Trusted 24 Hours Service Provider! "
+msgstr ""
+
+#: inc/customizer/core/default.php:40
+msgid "Number #1 Provider"
+msgstr ""
+
+#: inc/customizer/core/default.php:41
+msgid "of Industrial Solution"
+msgstr ""
+
+#: inc/customizer/core/default.php:43
+msgid "Global Certificate"
+msgstr ""
+
+#: inc/customizer/core/default.php:44
+msgid "ISO 9001:2015"
+msgstr ""
+
+#: inc/customizer/core/default.php:46
+msgid "Award Winning"
+msgstr ""
+
+#: inc/customizer/core/default.php:47
+msgid "Solution Of The Year"
+msgstr ""
+
+#: inc/customizer/customizer.php:43
+msgid "BC Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:44
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/customizer/theme-option.php:17
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:27
+msgid "Social Profile Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:44
+msgid "Global Social Profile ( Nav Right )"
+msgstr ""
+
+#: inc/customizer/theme-option.php:60
+msgid "Search Icon ( Nav Right )"
+msgstr ""
+
+#: inc/customizer/theme-option.php:71
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer/theme-option.php:74
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer/theme-option.php:77
+msgid "pinterest URL"
+msgstr ""
+
+#: inc/customizer/theme-option.php:80
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/customizer/theme-option.php:83
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/customizer/theme-option.php:115
+msgid "Blog Management"
+msgstr ""
+
+#: inc/customizer/theme-option.php:132
+msgid "Blog Layout Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:133 inc/customizer/theme-option.php:210
+msgid "Choose between different layout options to be used as default"
+msgstr ""
+
+#: inc/customizer/theme-option.php:136 inc/customizer/theme-option.php:212
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/customizer/theme-option.php:137 inc/customizer/theme-option.php:213
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-option.php:138 inc/customizer/theme-option.php:214
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-option.php:156
+msgid "Set Blog Excerpt Length"
+msgstr ""
+
+#: inc/customizer/theme-option.php:175
+msgid "Blog Looop Content"
+msgstr ""
+
+#: inc/customizer/theme-option.php:178
+msgid "Excerpt Only"
+msgstr ""
+
+#: inc/customizer/theme-option.php:179
+msgid "Full Post"
+msgstr ""
+
+#: inc/customizer/theme-option.php:190
+msgid "Page Management"
+msgstr ""
+
+#: inc/customizer/theme-option.php:208
+msgid "Page Layout Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:225
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:242
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-option.php:254
+msgid "Dialog & Award"
+msgstr ""
+
+#: inc/customizer/theme-option.php:271
+msgid "Show Award & Dialog ?"
+msgstr ""
+
+#: inc/customizer/theme-option.php:288
+msgid "Dialog Top Right Text"
+msgstr ""
+
+#: inc/customizer/theme-option.php:299 inc/customizer/theme-option.php:308
+#: inc/customizer/theme-option.php:317
+msgid "Award Title"
+msgstr ""
+
+#: inc/customizer/theme-option.php:303 inc/customizer/theme-option.php:312
+#: inc/customizer/theme-option.php:321
+msgid "Award Text"
+msgstr ""
+
+#: inc/fitter-hook.php:51
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/fitter-hook.php:56
+msgid "Reply"
+msgstr ""
+
+#: inc/fitter-hook.php:79
+msgid "Read More"
+msgstr ""
+
+#: inc/fitter-hook.php:101 template-parts/content.php:63
+#: template-parts/single/content.php:58
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/post-hooks.php:202
+msgid "Previous Article"
+msgstr ""
+
+#: inc/post-hooks.php:214
+msgid "Next Article"
+msgstr ""
+
+#: inc/pro/admin-page.php:36 inc/pro/admin-page.php:37
+msgid "Getting Started"
+msgstr ""
+
+#: inc/pro/admin-page.php:78
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/pro/admin-page.php:83
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/pro/admin-page.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: inc/pro/admin-page.php:98
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing business consulting! To fully take advantage "
+"of the best our theme can offer please make sure you visit our %1$swelcome "
+"page%2$s."
+msgstr ""
+
+#: inc/pro/admin-page.php:100
+msgid "Get started with BC"
+msgstr ""
+
+#: inc/pro/admin-page.php:116
+msgid "About"
+msgstr ""
+
+#: inc/pro/admin-page.php:123
+msgid "Theme Info"
+msgstr ""
+
+#: inc/pro/admin-page.php:125
+msgid "View Demo"
+msgstr ""
+
+#: inc/pro/admin-page.php:127
+msgid "View PRO version Demo"
+msgstr ""
+
+#: inc/pro/admin-page.php:129
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/pro/admin-page.php:142
+msgid "Free Vs PRO"
+msgstr ""
+
+#: inc/pro/admin-page.php:145
+msgid "Changelog"
+msgstr ""
+
+#: inc/pro/admin-page.php:185
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/pro/admin-page.php:186
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/pro/admin-page.php:187
+msgid "Customize"
+msgstr ""
+
+#: inc/pro/admin-page.php:191
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/pro/admin-page.php:192
+msgid "Please put it in our support forum."
+msgstr ""
+
+#: inc/pro/admin-page.php:193
+msgid "Support"
+msgstr ""
+
+#: inc/pro/admin-page.php:197
+msgid "Need more features?"
+msgstr ""
+
+#: inc/pro/admin-page.php:198 inc/pro/admin-page.php:281
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: inc/pro/admin-page.php:199
+msgid "Info about PRO version"
+msgstr ""
+
+#: inc/pro/admin-page.php:209
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/pro/admin-page.php:209
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/pro/admin-page.php:212
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/pro/admin-page.php:212
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/pro/admin-page.php:229
+msgid "View changelog below:"
+msgstr ""
+
+#: inc/pro/admin-page.php:286
+msgid "Features"
+msgstr ""
+
+#: inc/pro/admin-page.php:287
+msgid "business consulting"
+msgstr ""
+
+#: inc/pro/admin-page.php:288
+msgid "business consulting PRO"
+msgstr ""
+
+#: inc/pro/admin-page.php:293
+msgid "24/7 Priority Support"
+msgstr ""
+
+#: inc/pro/admin-page.php:294
+msgid "WP forum"
+msgstr ""
+
+#: inc/pro/admin-page.php:295
+msgid "Ticket, email , Skype & Teamviewer"
+msgstr ""
+
+#: inc/pro/admin-page.php:298
+msgid "Pagebulider addons  "
+msgstr ""
+
+#: inc/pro/admin-page.php:303
+msgid "visual composer Theme toolkit addons  "
+msgstr ""
+
+#: inc/pro/admin-page.php:308
+msgid "visual composer bc toolkit addons  "
+msgstr ""
+
+#: inc/pro/admin-page.php:313
+msgid "Page Builder by SiteOrigin with 8+ Widgets  "
+msgstr ""
+
+#: inc/pro/admin-page.php:318
+msgid "Home Slider"
+msgstr ""
+
+#: inc/pro/admin-page.php:323
+msgid "Navigation Color"
+msgstr ""
+
+#: inc/pro/admin-page.php:328
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/pro/admin-page.php:333
+msgid "Post format"
+msgstr ""
+
+#: inc/pro/admin-page.php:338
+msgid "Change Background"
+msgstr ""
+
+#: inc/pro/admin-page.php:343
+msgid "Unlimited Text Color"
+msgstr ""
+
+#: inc/pro/admin-page.php:348
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/pro/admin-page.php:353
+msgid "Choose Social Icon "
+msgstr ""
+
+#: inc/pro/admin-page.php:358
+msgid "jQuery Lightbox Popup "
+msgstr ""
+
+#: inc/pro/admin-page.php:366
+msgid "Extended Theme Options Panel"
+msgstr ""
+
+#: inc/pro/admin-page.php:371
+msgid "Styling for all sections"
+msgstr ""
+
+#: inc/pro/admin-page.php:376
+msgid "Google Fonts Supported (500+ Fonts)"
+msgstr ""
+
+#: inc/pro/admin-page.php:381
+msgid "Homepage Sections"
+msgstr ""
+
+#: inc/pro/admin-page.php:386
+msgid "Sub Title"
+msgstr ""
+
+#: inc/pro/admin-page.php:392 inc/pro/admin-page.php:397
+msgid "Page Layout Style"
+msgstr ""
+
+#: inc/pro/admin-page.php:402
+msgid "Blog Layout Style"
+msgstr ""
+
+#: inc/pro/admin-page.php:407
+msgid "Blog Gird Style"
+msgstr ""
+
+#: inc/pro/admin-page.php:412
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/pro/admin-page.php:417
+msgid "  Footer Branding Our Site"
+msgstr ""
+
+#: inc/pro/admin-page.php:418
+msgid "Yes"
+msgstr ""
+
+#: inc/pro/admin-page.php:419
+msgid "No"
+msgstr ""
+
+#: inc/pro/admin-page.php:423
+msgid "WP-Admin Welcome Section"
+msgstr ""
+
+#: inc/pro/admin-page.php:429
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/pro/admin-page.php:434
+msgid "WooCommerce Custom Plugins"
+msgstr ""
+
+#: inc/pro/admin-page.php:439
+msgid "WooCommerce Customizable Options"
+msgstr ""
+
+#: inc/pro/admin-page.php:444
+msgid "WooCommerce Child Theme"
+msgstr ""
+
+#: inc/pro/admin-page.php:449
+msgid "WooCommerce Layout Options"
+msgstr ""
+
+#: inc/pro/admin-page.php:454
+msgid "You can control overall everything without code"
+msgstr ""
+
+#: inc/pro/admin-page.php:463
+msgid "More Information"
+msgstr ""
+
+#: inc/template-functions.php:276
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/template-functions.php:317
+msgid "search_icon"
+msgstr ""
+
+#: inc/template-functions.php:349
+msgid "Set Up menu here"
+msgstr ""
+
+#: inc/template-functions.php:383
+msgid "https://wordpress.org/themes/bc-business-consulting/"
+msgstr ""
+
+#: inc/template-functions.php:383
+msgid "Theme"
+msgstr ""
+
+#: inc/template-functions.php:386
+#, php-format
+msgid ": %1$s by %2$s."
+msgstr ""
+
+#: inc/template-functions.php:386
+msgid "https://www.athemeart.com"
+msgstr ""
+
+#: inc/template-functions.php:386
+msgid "aThemeArt"
+msgstr ""
+
+#: inc/template-functions.php:387
+#, php-format
+msgid "Proudly powered by %s ."
+msgstr ""
+
+#: inc/template-functions.php:489
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-functions.php:493
+msgid "404 Error"
+msgstr ""
+
+#: inc/template-functions.php:653
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions.php:654
+msgid "Next"
+msgstr ""
+
+#: inc/template-functions.php:655
+msgid "&nbsp;"
+msgstr ""
+
+#: inc/template-tags.php:25
+#, php-format
+msgctxt "post date"
+msgid "Last Updated on %s"
+msgstr ""
+
+#: inc/template-tags.php:38
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:60
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:70
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:100
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:103
+#, php-format
+msgid "Tagged : %1$s"
+msgstr ""
+
+#: inc/template-tags.php:114
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-core.php:47
+msgid "Primary"
+msgstr ""
+
+#: inc/theme-core.php:48
+msgid "Top Right Menu"
+msgstr ""
+
+#: inc/theme-core.php:49
+msgid "Footer Right"
+msgstr ""
+
+#: inc/theme-core.php:126
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-core.php:128 inc/theme-core.php:138 inc/theme-core.php:147
+#: inc/theme-core.php:156 inc/theme-core.php:166
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/theme-core.php:136
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-core.php:145
+msgid "Front Page Slider"
+msgstr ""
+
+#: inc/theme-core.php:154
+msgid "Blog Page Slider"
+msgstr ""
+
+#: inc/theme-core.php:164
+msgid "Logo Right Widgets"
+msgstr ""
+
+#: sidebar.php:22 vendors/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Meta"
+msgstr ""
+
+#: single.php:32
+msgid "<i class=\"fa fa-long-arrow-left\"></i>%title"
+msgstr ""
+
+#: single.php:33
+msgid "%title <i class=\"fa fa-long-arrow-right\"></i>"
+msgstr ""
+
+#: single.php:35
+msgid "post_tag"
+msgstr ""
+
+#: single.php:36
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:46 template-parts/content.php:75
+#: template-parts/single/content.php:69
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:39 template-parts/content.php:40
+#: template-parts/single/content.php:40
+msgid "By -"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:758
+#: vendors/breadcrumbs/breadcrumbs.php:787
+#: vendors/breadcrumbs/breadcrumbs.php:814
+#: vendors/breadcrumbs/breadcrumbs.php:841
+#: vendors/breadcrumbs/breadcrumbs.php:1182
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:759
+#: vendors/breadcrumbs/breadcrumbs.php:815
+#: vendors/breadcrumbs/breadcrumbs.php:1186
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:760
+#: vendors/breadcrumbs/breadcrumbs.php:1190
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: vendors/wp-bootstrap-navwalker/wp-bootstrap-navwalker.php:209
+msgid "Add a menu"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "BC Business Consulting"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.athemeart.com/downloads/bc-business-consulting/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"BC Business Consulting Multipurpose One page WordPress Theme BC Business "
+"Consulting is a clean, super flexible and fully responsive Multipurpose One "
+"page WordPress Theme for any project, business, agency , personal or web "
+"studio. Its equipped with the latest technologies and designed with user in "
+"mind to ensure endless freedom to create and customize your site like a pro "
+"and without any coding. This versatile, multi-purpose theme is perfect for "
+"beginners, while also feature rich and extendable for developers, "
+"freelancers and growing businesses. We built this theme on Visual Composer, "
+"a very convenient drag-n-drop PageBuilder for WordPress. It should provide "
+"you with the smoothest experience while creating your website with our "
+"theme. The colorful widgets will help anyone to customize according to their "
+"branding colors. This theme is very well commented and also have proper help "
+"documentation too."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "athemeart"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.athemeart.com/"
+msgstr ""

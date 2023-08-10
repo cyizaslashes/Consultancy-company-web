@@ -1,0 +1,95 @@
+/*
+Theme Name: bc-business-consulting
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+	text-align:right;
+	
+}
+
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12,.middle-header .logo-block,.navbar-nav{
+	float:right;
+	direction: rtl;
+}
+.navbar-left,.menu-block .container span.home-icon{
+    float: right !important;
+}
+.header-social{
+	float:left;	
+}
+.pull-right{
+	float:left!important;
+}
+.pull-left{
+	float:right!important;
+}
+#text-search{
+	padding: 0 160px 0 55px;
+}
+.search-cat::after {
+	left:0px;	
+}
+#btn-search-category,
+.search-cat::after,
+.search-form::before,
+.widget_search input[type="submit"]{
+	left:0px;
+	right:auto!important;
+}
+
+.search-form::before,
+.widget_search input[type="submit"] {
+	left:10px;	
+}
+.widget-area .widget-title::before {
+	left:auto;
+	right:0px;	
+}
+
+.sidebar .widget li::before, ul.popular_category_list li::before, .woocommerce-MyAccount-navigation li::before{
+	left:auto;
+	right:0px;	
+}
+#secondary .widget li, ul.popular_category_list li, .woocommerce-MyAccount-navigation li{
+	padding-left:0px;
+	padding-right:20px;	
+}
+.entry-meta .avatar_round{
+	right:auto;
+	left:20px;	
+}
+.entry-meta i{
+	margin-right:auto;
+	margin-left:20px;	
+}
+.header-info{
+	float:left;	
+}
+.widget_search .search-submit{
+    border-radius: 33px 0 0 33px;
+}
+.btn {
+	padding: 9px 22px;
+	text-align:right;
+	direction:rtl;
+}
+.btn i{
+	float:right;
+	margin-left:10px;
+	margin-top:2px;
+}
+.blog.latestnews-section .type-post .post-tag i{
+	float:left;
+	margin-right:15px;
+	margin-top:10px;	
+}
